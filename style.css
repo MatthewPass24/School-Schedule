@@ -1,0 +1,10 @@
+.container{
+    margin-top: 2em;
+}
+th{
+  background-color: rgb(70, 143, 202);  
+  color: white;
+}
+#submitDay{
+    background-color:rgb(70, 143, 202);
+}
